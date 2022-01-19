@@ -27,9 +27,9 @@
   "author": "Everton Ferreira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ubelix/ubx-afrodite-native-ui/issues"
+    "url": "https://github.com/EvertonFerreira96/ubx-afrodite-native-ui/issues"
   },
-  "homepage": "https://github.com/Ubelix/ubx-afrodite-native-ui#readme",
+  "homepage": "https://github.com/EvertonFerreira96/ubx-afrodite-native-ui#readme",
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.66.4",
